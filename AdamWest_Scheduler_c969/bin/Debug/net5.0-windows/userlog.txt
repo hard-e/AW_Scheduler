@@ -1,0 +1,6 @@
+UserID: 1 | Username: test | Date/Time: 4/15/2021 12:23:45 PM
+UserID: 1 | Username: test | Date/Time: 4/17/2021 6:10:48 PM
+UserID: 1 | Username: test | Date/Time: 4/17/2021 7:44:59 PM
+UserID: 1 | Username: test | Date/Time: 4/17/2021 7:53:59 PM
+UserID: 1 | Username: test | Date/Time: 4/17/2021 7:57:53 PM
+UserID: 1 | Username: test | Date/Time: 4/17/2021 8:00:28 PM
